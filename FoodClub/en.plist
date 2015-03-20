@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Grocery</key>
+	<string>Grocery</string>
+	<key>Food</key>
+	<string>Food</string>
+	<key>Promotions</key>
+	<string>Promotions</string>
+	<key>Gifts</key>
+	<string>Gifts</string>
+	<key>Lottery</key>
+	<string>Lottery</string>
+	<key>History</key>
+	<string>History</string>
+	<key>Contact Us</key>
+	<string>Contact Us</string>
+	<key>Settings</key>
+	<string>Settings</string>
+	<key>Login</key>
+	<string>Login</string>
+	<key>LOGIN</key>
+	<string>LOGIN</string>
+	<key>Language</key>
+	<string>Language</string>
+	<key>Location</key>
+	<string>Location</string>
+	<key>Get Promotion</key>
+	<string>Get Promotion</string>
+	<key>Load Images</key>
+	<string>Load Images</string>
+	<key>Address</key>
+	<string>Address</string>
+	<key>Add New Address</key>
+	<string>Add New Address</string>
+	<key>Change Password</key>
+	<string>Change Password</string>
+	<key>Forgot password?</key>
+	<string>Forgot password?</string>
+	<key>Recovery Password</key>
+	<string>Recovery Password</string>
+	<key>RECOVER</key>
+	<string>RECOVER</string>
+	<key>Email</key>
+	<string>Email</string>
+	<key>SIGN UP NOW</key>
+	<string>SIGN UP NOW</string>
+	<key>OR CONNECT WITH...</key>
+	<string>OR CONNECT WITH SOCIAL NETWORK</string>
+	<key>ONLY REGISTER USERS...</key>
+	<string>ONLY REGISTER USERS GET POINT AND PARTICIPATE IN THE LOTTERY.</string>
+	<key>REGISTER NOW AND...</key>
+	<string>REGISTER NOW AND GET 100 POINTS ON THE BALANCE.</string>
+</dict>
+</plist>

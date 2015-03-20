@@ -4,10 +4,25 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>FoodClub 2.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
 		<key>FoodClub.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+		<key>FoodClubStyle.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>StyleKit.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
@@ -18,6 +33,36 @@
 			<true/>
 		</dict>
 		<key>5B0E09F61AA83F3200AA19DF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5B8E5E191AAF0DD5009D9C22</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5B8E5E231AAF0DD5009D9C22</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5B8E5E401AAF0F91009D9C22</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5B8E5E4A1AAF0F91009D9C22</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5B8E5E6A1AAF1128009D9C22</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5B8E5E741AAF1128009D9C22</key>
 		<dict>
 			<key>primary</key>
 			<true/>
